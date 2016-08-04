@@ -1,0 +1,43 @@
+_repo: Parmenides_1687
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: Socrates
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zeno, of Elea'
+- !lcc 'B'
+- !lcsh 'Dialectic -- Early works to 1800'
+- !lcsh 'Parmenides'
+- !lcsh 'Classical literature'
+- !lcc 'PA'
+- !lcsh 'Socrates, 470 BC-399 BC'
+- !lcsh 'Reasoning -- Early works to 1800'
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Ontology -- Early works to 1800'
+- GITenberg
+title: Parmenides
+url: http://www.gutenberg.org/ebooks/1687
